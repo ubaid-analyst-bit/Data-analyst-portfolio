@@ -152,9 +152,8 @@ I am open to **remote Data Analyst roles and freelance projects**.
 
 | Platform | Link |
 |---|---|
-| 💼 LinkedIn | [linkedin.com/in/ubaid-ur-rehman-chemist](https://www.linkedin.com/in/ubaid-ur-rahman-data-analyst/) |
+| 💼 LinkedIn | [linkedin.com/in/ubaid-ur-rahman-data-analyst/](https://www.linkedin.com/in/ubaid-ur-rahman-data-analyst/) |
 | 💬 WhatsApp | [+92 322 823 9798](https://wa.me/923228239798) |
-| 🔬 ORCID | [0009-0007-8152-5843](https://orcid.org/0009-0007-8152-5843) |
 | 🎯 Kaggle | [ubaidurrehmanthaheem](https://www.kaggle.com/ubaidurrehmanthaheem) |
 
 <p align="center">Made from Bahawalnagar, Pakistan 🇵🇰</p>
